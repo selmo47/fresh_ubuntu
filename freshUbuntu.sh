@@ -40,3 +40,6 @@ sudo apt-get install -y nodejs
 
 # Install gimp
 sudo apt-get install gimp
+
+# Update npm
+sudo npm install -g npm
