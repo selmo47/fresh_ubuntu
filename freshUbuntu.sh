@@ -33,3 +33,7 @@ apt install -y wine winetricks
 
 # Windows fonts
 apt install msttcorefonts -y
+
+# Install node js
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
